@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Korop_AI_7\Running Button\bin\Debug\Running Button.exe.config
+C:\Users\User\source\repos\Korop_AI_7\Running Button\bin\Debug\Running Button.exe
+C:\Users\User\source\repos\Korop_AI_7\Running Button\bin\Debug\Running Button.pdb
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running Button.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running_Button.Properties.Resources.resources
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running Button.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running Button.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running Button.exe
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running Button.pdb
+C:\Users\User\source\repos\Korop_AI_7\Running Button\obj\Debug\Running_Button.Form1.resources
