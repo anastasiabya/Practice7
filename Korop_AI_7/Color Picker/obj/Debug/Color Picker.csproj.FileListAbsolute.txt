@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\bin\Debug\Korop_AI_7.exe.config
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\bin\Debug\Korop_AI_7.exe
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\bin\Debug\Korop_AI_7.pdb
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Color Picker.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Korop_AI_7.Form1.resources
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Korop_AI_7.Properties.Resources.resources
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Color Picker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Color Picker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Korop_AI_7.exe
+C:\Users\User\source\repos\Korop_AI_7\Korop_AI_7\obj\Debug\Korop_AI_7.pdb
